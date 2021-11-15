@@ -1,0 +1,9 @@
+.justify{
+    text-align: justify;
+}
+.services ul{
+    list-style: square;
+}
+.services ul li{
+    text-align: left !important;
+}
