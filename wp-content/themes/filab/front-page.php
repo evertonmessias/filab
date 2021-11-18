@@ -171,8 +171,7 @@
           }
         } ?>
       </div>
-      <br><br>
-      <h4 class="plus"><a title="All Portfolio" href="/portfolio"><i class="bx bxs-folder-plus"></i></a></h4>
+      <br>
     </div>
   </section><!-- End Portfolio Section -->
 
