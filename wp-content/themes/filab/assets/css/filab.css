@@ -20,5 +20,8 @@
     background-color: #3081eb !important;
 }
 .ppost img{
+    display: block;
+    position: relative;
+    margin: 0 auto;
     width: 500px !important;
 }
