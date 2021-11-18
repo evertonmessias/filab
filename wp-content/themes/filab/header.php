@@ -56,26 +56,13 @@
 			<nav class="nav-menu d-none d-lg-block">
 				<ul>
 					<li class="active"><a href="/">Inicio</a></li>
-					<li><a href="#about">Sobre</a></li>
-					<li><a href="#services">Serviços</a></li>
-					<li><a href="#portfolio">Portfólio</a></li>
-					<li><a href="#team">Equipe</a></li>				
-					<li><a href="#contact">Contato</a></li>
+					<li><a href="/#about">Sobre</a></li>
+					<li><a href="/#services">Serviços</a></li>
+					<li><a href="/#portfolio">Portfólio</a></li>			
+					<li><a href="/#contact">Contato</a></li>
 
 				</ul>
 			</nav><!-- .nav-menu -->
 
 		</div>
 	</header><!-- End Header -->
-
-	<!-- ======= Hero Section ======= -->
-	<section id="hero" class="d-flex align-items-center">
-		<div class="container" data-aos="zoom-out" data-aos-delay="100">
-			<h1><span>FILAB</span> Controle de Contaminação</h1>
-			<h2>Agência de consultoria em Campinas</h2>
-			<div class="d-flex">
-				<a href="#about" class="btn-get-started scrollto">Sobre Nós</a>
-				<a href="https://youtu.be/ZhZ6ZW6cW4E" class="venobox btn-watch-video" data-vbtype="video" data-autoplay="true"> Assista ao Vídeo <i class="icofont-play-alt-2"></i></a>
-			</div>
-		</div>
-	</section><!-- End Hero -->

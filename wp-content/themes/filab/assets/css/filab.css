@@ -7,3 +7,15 @@
 .services ul li{
     text-align: left !important;
 }
+.contact button{
+    display: block !important;
+    position: relative !important;
+    margin: 0 auto !important;
+    width: 120px !important;
+    background-color: #106EEA !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+}
+.contact button:hover{
+    background-color: #3081eb !important;
+}
