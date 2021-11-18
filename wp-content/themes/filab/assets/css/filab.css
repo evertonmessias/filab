@@ -7,6 +7,12 @@
 .services ul li{
     text-align: left !important;
 }
+@media (max-width: 768px) {
+    .icon-box{
+        width: 100%;
+    }
+}
+
 .contact button{
     display: block !important;
     position: relative !important;
