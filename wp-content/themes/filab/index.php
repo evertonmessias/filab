@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<main id="main" class="page post" data-aos="fade-up">
+<main id="main" class="ppost" data-aos="fade-up">
   <!-- ======= Breadcrumbs ======= -->
   <section class="breadcrumbs">
     <div class="container">

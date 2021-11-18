@@ -37,8 +37,8 @@
 	<div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
 		<div class="container d-flex">
 			<div class="contact-info mr-auto">
-				<i class="icofont-envelope"></i> <a href="mailto:filabcc@terra.com.br">filabcc@terra.com.br</a>
-				<i class="icofont-phone"></i>(19) 98154-7477
+				<i class="icofont-envelope"></i><a target="_blank" href="mailto:filabcc@terra.com.br">filabcc@terra.com.br</a>
+				<i class="bx bxl-whatsapp"></i><a target="_blank" href="https://api.whatsapp.com/send?phone=5519981547477&text=Filab">(19) 98154-7477</a>
 			</div>
 			<div class="social-links">				
 				<a target="_blank" href="https://www.facebook.com/FilabCCLtda" class="facebook"><i class="icofont-facebook"></i></a>
@@ -58,7 +58,8 @@
 					<li class="active"><a href="/">Inicio</a></li>
 					<li><a href="/#about">Sobre</a></li>
 					<li><a href="/#services">Serviços</a></li>
-					<li><a href="/#portfolio">Portfólio</a></li>			
+					<li><a href="/#portfolio">Portfólio</a></li>	
+					<li><a href="/#clients">Clientes</a></li>			
 					<li><a href="/#contact">Contato</a></li>
 
 				</ul>

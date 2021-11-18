@@ -8,8 +8,8 @@
 	  <div class="col-lg-4 col-md-6 footer-contact">
 		<h3>FILAB<span>.</span></h3>
 		<p>
-		Rua Olympio Pattáro, 653<br><br>
-		  <strong>Fome:</strong> (19) 3249-1475<br>
+		Rua Olympio Pattáro, 653<br>Campinas<br>
+		  <strong>Fone:</strong> (19) 3249-1475<br>
 		  <strong>Mail:</strong> filabcc@terra.com.br<br>
 		</p>
 	  </div>

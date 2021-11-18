@@ -19,3 +19,6 @@
 .contact button:hover{
     background-color: #3081eb !important;
 }
+.ppost img{
+    width: 500px !important;
+}
