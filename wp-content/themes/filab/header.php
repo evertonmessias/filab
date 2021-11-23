@@ -60,7 +60,11 @@
 					<li><a href="/#services">Serviços</a></li>
 					<li><a href="/#portfolio">Portfólio</a></li>	
 					<li><a href="/#clients">Clientes</a></li>			
-					<li><a href="/#contact">Contato</a></li>
+					<li class="drop-down"><a href="/#contact">Contato</a>
+						<ul>
+							<li><a href="/trabalhe-conosco">Trabalhe Conosco</a></li>
+						</ul>
+					</li>
 
 				</ul>
 			</nav><!-- .nav-menu -->
