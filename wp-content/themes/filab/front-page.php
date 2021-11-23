@@ -106,7 +106,7 @@
         $loop = new WP_Query($args);
         while ($loop->have_posts()) {
           $loop->the_post();
-          if (get_the_title() != "Sobre") {
+          if (get_the_title() != "Sobre" && get_the_title() != "Trabalhe Conosco") {
         ?>
             <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
               <div class="icon-box">
